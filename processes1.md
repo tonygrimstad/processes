@@ -1,4 +1,4 @@
-## Request, Order etc.
+## Cases: Request, Order etc.
 ### Sketch (IGOE) 
 ![IGOE Template](/Pictures/service.png)
 ### Tools
