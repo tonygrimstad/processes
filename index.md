@@ -1,3 +1,3 @@
 # Hei!
 
-[Identifiserte  prosesser] (processes1)
+[Identifiserte  prosesser](processes1.md)
