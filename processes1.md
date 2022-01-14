@@ -2,6 +2,6 @@
 ### Sketch (IGOE) 
 ![IGOE Template](/Pictures/service.png)
 ### Tools
-![tool explanation](/pictures/tools.png)
+![tool explanation](/Pictures/tools.png)
 ### People
-![tool explanation](/pictures/people.png)
+![tool explanation](/Pictures/people.png)
