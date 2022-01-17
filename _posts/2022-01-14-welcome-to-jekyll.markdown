@@ -16,7 +16,3 @@ ABS accepts inquiries from users who need assistance and help to use services in
 
 ### Roles
 ![ABS tool explanation](/assets/images/roles-abs.png)
-
-
-# ![image tooltip here](/images/assets/image.jpg)
-# [URL Text here]: https://somewhere.com
