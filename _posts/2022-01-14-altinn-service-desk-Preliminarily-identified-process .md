@@ -12,14 +12,18 @@ The purpose of the service desk practice is to capture demand for incident resol
 #### Process Outline
 [![IGOE Template Service Desk](/processes/assets/images/process-sd.png)](/processes/assets/images/process-sd.png)
 
+#### *Check out the BMC blog for more general understanding about the process <a href="https://www.bmc.com/blogs/itil-service-desk/" target="_blank">here</a>*
+(Although we still have to find our own way of doing the processes)
+
+<br />
+
 #### Tools
 [![Service Desk Tool Support](/processes/assets/images/tools-sd.png)](/processes/assets/images/tools-sd.png)
 
+<br />
+
 #### Roles
 [![Service Desk Roles](/processes/assets/images/roles-sd.png)](/processes/assets/images/roles-sd.png)
-
-# *Check out the BMC blog for more general understanding about the process <a href="https://www.bmc.com/blogs/itil-service-desk/" target="_blank">here</a>*
-(Although we still have to find our own way of doing the processes)
 
 <br />
 

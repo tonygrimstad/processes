@@ -12,14 +12,19 @@ The purpose of the service request management practice is to support the agreed 
 #### Process Outline
 [![IGOE Template Service Desk](/processes/assets/images/process-rq.png)](/processes/assets/images/process-rq.png)
 
+#### *Check out the BMC blog for more general understanding about the process <a href="https://www.bmc.com/blogs/itil-service-request-management/" target="_blank">here</a>*
+(Although we still have to find our own way of doing the processes)
+
+<br />
+
 #### Tools
 [![Service Desk Tool Support](/processes/assets/images/tools-rq.png)](/processes/assets/images/tools-rq.png)
+
+<br />
 
 #### Roles
 [![Service Desk Roles](/processes/assets/images/roles-rq.png)](/processes/assets/images/roles-rq.png)
 
-# *Check out the BMC blog for more general understanding about the process <a href="https://www.bmc.com/blogs/itil-service-request-management/" target="_blank">here</a>*
-(Although we still have to find our own way of doing the processes)
 
 <br />
 

@@ -12,14 +12,19 @@ The purpose of incident management is to minimize the negative impact of inciden
 #### Process Outline
 [![IGOE Template Service Desk](/processes/assets/images/process-im.png)](/processes/assets/images/process-im.png)
 
+#### *Check out the BMC blog for more general understanding about the process <a href="https://www.bmc.com/blogs/itil-incident-management/" target="_blank">here</a>*
+(Although we still have to find our own way of doing the processes)
+
+<br />
+
 #### Tools
 [![Service Desk Tool Support](/processes/assets/images/tools-im.png)](/processes/assets/images/tools-im.png)
+
+<br />
 
 #### Roles
 [![Service Desk Roles](/processes/assets/images/roles-im.png)](/processes/assets/images/roles-im.png)
 
-# *Check out the BMC blog for more general understanding about the process <a href="https://www.bmc.com/blogs/itil-incident-management/" target="_blank">here</a>*
-(Although we still have to find our own way of doing the processes)
 
 <br />
 
