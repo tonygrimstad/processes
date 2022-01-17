@@ -13,10 +13,10 @@ The purpose of the change enablement practice is to maximize the number of succe
 [![IGOE Template Service Desk](/processes/assets/images/process-ch.png)](/processes/assets/images/process-ch.png)
 
 #### Tools
-[![Service Desk Tool Support](/processes/assets/images/tools-ch.png)](/processes/assets/images/tools-ch.png)
+[![Change Tool Support](/processes/assets/images/tools-ch.png)](/processes/assets/images/tools-ch.png)
 
 #### Roles
-[![Service Desk Roles](/processes/assets/images/roles-ch.png)](/processes/assets/images/roles-ch.png)
+[![Change Roles](/processes/assets/images/roles-ch.png)](/processes/assets/images/roles-ch.png)
 
 # *Check out the BMC blog for more general understanding about the process <a href="https://www.bmc.com/blogs/itil-change-management/" target="_blank">here</a> (ITIL3) and <a href="https://www.bmc.com/blogs/itil-change-enablement/" target="_blank">here</a> (ITIL4)*
 (Although we still have to find our own way of doing the processes)
