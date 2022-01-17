@@ -37,7 +37,7 @@ The purpose of the service request management practice is to support the agreed 
 
 <br />
 
-#### **Example Change Cases:**
+#### **Example Request Cases:**
 
 | Case Id | From | Internal/Eksternal inquiry | inquiry | The desired outcome of the case | Contributors | Information security | Note |
 | -- | -- | -- | -- | -- | -- | -- | -- |
