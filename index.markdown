@@ -4,3 +4,5 @@
 
 layout: home
 ---
+# Welcome!
+In this blog, results of ongoing work are gathered, to arrive at a recommendation for tool support for some of our processes. 
