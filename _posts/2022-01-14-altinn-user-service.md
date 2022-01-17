@@ -9,10 +9,10 @@ categories: jekyll update
 ABS accepts inquiries from users who need assistance and help to use services in Altinn.
 
 #### Process Outline
-![IGOE Template ABS](/processes/assets/images/process-abs.png)
+[![IGOE Template ABS](/processes/assets/images/process-abs.png)](/processes/assets/images/process-abs.png)
 
 #### Tools
-![ABS tool support](/processes/assets/images/tools-abs.png)
+[![ABS Tool Support](/processes/assets/images/tools-abs.png)](/processes/assets/images/tools-abs.png)
 
 #### Roles
-![ABS tool explanation](/processes/assets/images/roles-abs.png)
+[![ABS Roles](/processes/assets/images/roles-abs.png)](/processes/assets/images/roles-abs.png)
