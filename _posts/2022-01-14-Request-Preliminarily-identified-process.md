@@ -28,6 +28,7 @@ The purpose of the service request management practice is to support the agreed 
 | Team member ABS | Stein Roger W |  |
 | Manager SD | Elaine S |  |
 | Manager SD | Anita M |  |
+| Agile Coach | Anne R |  |
 | Jurist | Ståle E |  |
 | Security Officer | Raymond H |  |
 | Manager Supplier | Lars-Göran A |  |
