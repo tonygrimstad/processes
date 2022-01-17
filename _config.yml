@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tool Support for Processes 
+title: Tool Support department BOD
 email: teg@digdir.no
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the blog site. The purpose of the blog is to gather information and results from the work in one place.
