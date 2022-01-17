@@ -4,6 +4,20 @@ title:  "Welcome to Jekyll!"
 date:   2022-01-14 12:30:25 +0100
 categories: jekyll update
 ---
+Intro...
+
+### Case category: Requests, Orders etc.
+#### Sketch (IGOE) 
+![IGOE Template](/Pictures/service.png)
+### Tools
+![tool explanation](/Pictures/tools.png)
+### People
+![tool explanation](/Pictures/people.png)
+
+
+
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
