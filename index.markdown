@@ -6,3 +6,9 @@ layout: home
 ---
 
 In this blog, results of ongoing work are gathered, to arrive at a recommendation for tool support for some of our processes. 
+
+<br />
+
+## Temporary Plan
+
+[![1. Planning Phase ](/processes/assets/images/planning-phase.png)](/processes/assets/images/planning-phase.png)

@@ -21,6 +21,17 @@ The purpose of incident management is to minimize the negative impact of inciden
 # *Check out the BMC blog for more general understanding about the process <a href="https://www.bmc.com/blogs/itil-incident-management/" target="_blank">here</a>*
 (Although we still have to find our own way of doing the processes)
 
+<br />
+
+| Role | Name | Note |
+| -- | -- | -- |
+| Manager Incident | Torkel B |  |
+| Team member ABS | Stein Roger W |  |
+| Manager SD | Elaine S |  |
+| Manager SD | Anita M |  |
+| Manager Supplier | Lars-Göran A |  |
+
+
 ---
 
 <br />

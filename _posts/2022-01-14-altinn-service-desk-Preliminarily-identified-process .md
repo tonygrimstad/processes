@@ -20,3 +20,13 @@ The purpose of the service desk practice is to capture demand for incident resol
 
 # *Check out the BMC blog for more general understanding about the process <a href="https://www.bmc.com/blogs/itil-service-desk/" target="_blank">here</a>*
 (Although we still have to find our own way of doing the processes)
+
+<br />
+
+| Role | Name | Note |
+| -- | -- | -- |
+| Team member ABS | Stein Roger W |  |
+| Manager SD | Anita M |  |
+| Manager SD | Elaine S |  |
+| Jurist | Ståle E |  |
+| Security Officer | Raymond H |  |

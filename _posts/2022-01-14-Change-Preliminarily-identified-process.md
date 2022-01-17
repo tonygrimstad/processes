@@ -21,6 +21,19 @@ The purpose of the change enablement practice is to maximize the number of succe
 # *Check out the BMC blog for more general understanding about the process <a href="https://www.bmc.com/blogs/itil-change-management/" target="_blank">here</a> (ITIL3) and <a href="https://www.bmc.com/blogs/itil-change-enablement/" target="_blank">here</a> (ITIL4)*
 (Although we still have to find our own way of doing the processes)
 
+<br />
+
+| Role | Name | Note |
+| -- | -- | -- |
+| Team member ABS | Stein Roger W |  |
+| Manager Change | Tony G |  |
+| Manager SD | Elaine S |  |
+| Manager SD | Anita M |  |
+| Manager Supplier | Lars-Göran A |  |
+| Internal Domain Experts | Odd Arne S |  |
+| Internal Domain Experts | Petter B |  |
+
+
 ---
 
 <br />

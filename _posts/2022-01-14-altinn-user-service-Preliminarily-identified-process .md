@@ -17,3 +17,12 @@ ABS accepts inquiries from users who need assistance and help to use services in
 
 #### Roles
 [![ABS Roles](/processes/assets/images/roles-abs.png)](/processes/assets/images/roles-abs.png)
+
+<br />
+
+| Role | Name | Note |
+| -- | -- | -- |
+| Team member ABS | Stein Roger W |  |
+| Manager ABS | Hege Marie N |  |
+| Manager SD | Anita M |  |
+| Manager SD | Elaine S |  |
