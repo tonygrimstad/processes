@@ -34,6 +34,7 @@ The purpose of the service request management practice is to support the agreed 
 | Manager SD | Elaine S |  |
 | Manager SD | Anita M |  |
 | Agile Coach | Anne R |  |
+| Product Team | ... |  |
 | Jurist | Ståle E | from Legal Team - Must be involved in assessing information security |
 | Security Officer | Raymond H | Must be involved in assessing information security |
 | Manager Supplier | Lars-Göran A | Must be involved in relation to supplier management |

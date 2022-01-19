@@ -34,6 +34,7 @@ The purpose of incident management is to minimize the negative impact of inciden
 | Team member ABS | Stein Roger W |  |
 | Manager SD | Elaine S |  |
 | Manager SD | Anita M |  |
+| Suppliers | FA/DA |  |
 | Manager Supplier | Lars-Göran A | Must be involved in relation to supplier management |
 
 <br />
