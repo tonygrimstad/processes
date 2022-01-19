@@ -12,6 +12,15 @@ layout: home
 
 <br />
 
+## Work
+
+- <a href="https://github.com/Altinn/altinn-support/issues?q=is%3Aissue+is%3Aopen+label%3Autfasing-hpsm" target="_blank">Backlog</a>
+  - <a href="https://github.com/Altinn/altinn-support/projects/1" target="_blank">Kanban</a> (GitHub Project)
+- <a href="https://altinndevops.slack.com/archives/C02P259D0CU" target="_blank">Slack</a>
+- Miro(?)
+
+<br />
+
 ## Temporary Plan (Part 1)
 
 [![1. Planning Phase ](/processes/assets/images/planning-phase.png)](/processes/assets/images/planning-phase.png)
