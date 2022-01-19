@@ -18,6 +18,7 @@ Some examples are shown below
 | Product Owner | ? |  |
 | Manager SD | Elaine S |  |
 | Manager SD | Anita M |  |
+|  |  |  |
 
 
 ---
@@ -31,3 +32,12 @@ Some examples are shown below
 | SD4949513 | End User  | Eksternal | Improvement input: "Feedback that an hour is a long time to be locked out in a busy working day"| Reply to the end user that the input is registered, or expected follow-up | ABS <br /> SD <br /> Internal Product Team | | |
 | SD3081247 | Service Owner | Eksternal | Improvement input: Automatic deletion of deleted items  | Reply to the service owner that the input is registered, and expected follow-up | SD <br /> Internal Team | | SLA Cooperation Agreement |
 | SD4954012 | Datasystem in BR | Eksternal | Statistics data (weekly) | Message from SERES that statistics have been received | SD <br /> Team Seres | | Waste? |
+
+<br />
+
+#### **Example Cases with unknown process:**
+
+We have several channels directly into Slack, where service owners need help with various issues concerning Altinn 2.0.
+- Do we need an overview of these inquiries?
+- Do we need to know if they are answered or not?
+- Do we need tool support for this or not? 
