@@ -26,3 +26,14 @@ ABS accepts inquiries from users who need assistance and help to use services in
 | Manager ABS | Hege Marie N |  |
 | Manager SD | Anita M |  |
 | Manager SD | Elaine S |  |
+
+<br />
+
+#### Traffic (approximately)
+
+| Yearly | Note |
+| -- | -- |
+| 94 000 | Telephone |
+| 12 000 | Mail |
+
+of this, about 1 300 cases are forwarded to the Service Desk
