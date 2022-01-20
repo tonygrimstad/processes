@@ -56,3 +56,4 @@ The purpose of the service request management practice is to support the agreed 
 | Case Id | From | Internal/Eksternal inquiry | inquiry | The desired outcome of the case | Contributors | Information security | Note |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | SD4082046 | Police | Eksternal | Disclosure of information |Provided the desired information | ABS <br /> SD <br />Legal team <br />FA Supplier | **X** | Replies are sent via password protected file |
+| SD4950674 | Municipality (Asker)  | Eksternal | Trouble with authentication for Asker kommune | Help with the authentication | SD <br /> Request Team <br /> Team Coach <br /> Product Team | | This is a excample of a case that servicedesk maybe could have solved by asking questions to the submitter (Municipality), instead of sending the case to the Product Team  |
