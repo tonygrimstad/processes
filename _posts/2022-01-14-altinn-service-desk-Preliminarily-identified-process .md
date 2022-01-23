@@ -32,6 +32,7 @@ The purpose of the service desk practice is to capture demand for incident resol
 | Team member ABS | Stein Roger W |  |
 | Manager SD | Anita M |  |
 | Manager SD | Elaine S |  |
+| Agile Coach | Anne R |  |
 | Jurist | Ståle E | Must be involved in assessing information security  |
 | Security Officer | Raymond H | Must be involved in assessing information security  |
 
