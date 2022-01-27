@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 [![1. Planning Phase ](/processes/assets/images/planning-phase.png)](/processes/assets/images/planning-phase.png)
-### *Check out this article to understand <a href="https://www.beyond20.com/blog/how-value-stream-mapping-can-transform-your-organization/" target="_blank">"WHAT IS VALUE STREAM MAPPING"</a>*
+
 <br />
 
 ### The Goal (Part 1 - Planning)
