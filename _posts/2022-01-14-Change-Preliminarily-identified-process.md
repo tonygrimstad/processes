@@ -47,7 +47,7 @@ The purpose of the change enablement practice is to maximize the number of succe
 
 | Yearly | Note |
 | -- | -- |
-| 120 | |
+| 120 | for Altinn II |
 
 ---
 
