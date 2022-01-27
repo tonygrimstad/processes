@@ -16,4 +16,4 @@ Contact them for any questions / suggestions.
 
 
 <br />
-![image](https://user-images.githubusercontent.com/65394379/151357147-ee1c6a14-ef5a-4ddd-9e5e-39cf55a02f9c.png)
+[![Plan Value Stream Analysis ](/processes/assets/images/plan-value-map-analysis.jpg)](/processes/assets/images/plan-value-map-analysis.jpg)
