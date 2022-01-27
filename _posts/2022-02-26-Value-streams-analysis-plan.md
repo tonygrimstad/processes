@@ -12,8 +12,6 @@ Everyone who is a contributor / stakeholder gets involved in this.
 Stakeholders are contacted by Sigurd and India.
 Contact them for any questions / suggestions. 
 
-
-
-
 <br />
+
 [![Plan Value Stream Analysis ](/processes/assets/images/plan-value-map-analysis.jpg)](/processes/assets/images/plan-value-map-analysis.jpg)
