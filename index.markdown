@@ -46,6 +46,6 @@ tbd...
 
 ---
 
-Information is gathered in the Blog below. I hope this is good enough to get started. Let me know if something is missing, and I will fix it.
+Information from ongoing work is posted here, and is gathered in the Blog below. Let me know if something is missing.
 
 ---
