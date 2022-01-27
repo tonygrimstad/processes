@@ -14,6 +14,10 @@ Contact them for any questions / suggestions.
 
 <br />
 
+<a href="https://github.com/Altinn/altinn-support/issues/19" target="_blank">Issue #19</a>)
+
+<br />
+
 [![Plan Value Stream Analysis ](/processes/assets/images/plan-value-map-analysis.jpg)](/processes/assets/images/plan-value-map-analysis.jpg)
 
-### *Check out this article to understand <a href="https://www.beyond20.com/blog/how-value-stream-mapping-can-transform-your-organization/" target="_blank">"WHAT IS VALUE STREAM MAPPING"</a>*
+*Check out this article to understand <a href="https://www.beyond20.com/blog/how-value-stream-mapping-can-transform-your-organization/" target="_blank">"WHAT IS VALUE STREAM MAPPING"</a>*
