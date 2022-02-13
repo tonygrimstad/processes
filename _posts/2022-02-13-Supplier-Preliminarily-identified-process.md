@@ -9,7 +9,7 @@ categories: jekyll update
 The purpose of the supplier management is to ensure that all contracts with suppliers support the company's needs, and that suppliers fulfill their contractual obligations.
 
 #### Process Outline
-[![IGOE Template Supplier Management](images/process-supm.png)](/processes/assets/images/process-supm.png)
+[![IGOE Template Supplier Management](/processes/assets/images/process-supm.png)](/processes/assets/images/process-supm.png)
 
 <br />
 
