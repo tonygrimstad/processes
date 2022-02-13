@@ -17,12 +17,12 @@ layout: home
 - <a href="https://github.com/Altinn/altinn-support/issues?q=is%3Aissue+is%3Aopen+label%3Autfasing-hpsm" target="_blank">Backlog</a>
   - <a href="https://github.com/Altinn/altinn-support/projects/1" target="_blank">Kanban</a> (GitHub Project)
 - <a href="https://altinndevops.slack.com/archives/C02P259D0CU" target="_blank">Slack</a>
-- Miro(?)
+- Miro
 
 <br />
 
 ---
 
-Information from ongoing work is posted here, and is gathered in the Blog below. Let me know if something is missing.
+Information from ongoing work is posted here, and is gathered in the Blog below.
 
 ---
