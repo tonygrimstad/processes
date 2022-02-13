@@ -32,14 +32,15 @@ The purpose of the change enablement practice is to maximize the number of succe
 | Role | Name | Note |
 | -- | -- | -- |
 | Manager Change | Tony G |  |
-| Manager SD | Elaine S |  |
-| Manager SD | Anita M |  |
 | Suppliers | FA + DA |  |
-| Manager Supplier | Lars-Göran A | Must be involved in relation to supplier management |
+| Manager SD | Elaine S <br /> Anita |  |
+| Request | Anita M<br /> Elaine |  |
+| Manager Incident | Torkel B |  |
+| Manager Problem | Torkel B |  |
+| Manager Supplier | Lars-Göran A | Look at Supplier Management |
 | Agile Coach | Anne R |  |
 | Internal Domain Experts | Odd Arne S |  |
 | Internal Domain Experts | Petter B |  |
-| Manager Incident | Torkel B |  |
 
 <br />
 
