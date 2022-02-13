@@ -29,7 +29,6 @@ The purpose of the supplier management is to ensure that all contracts with supp
 | -- | -- | -- |
 | Manager Supplier | Lars-Göran A <br /> Marit  <br /> Dan Remi | |
 | Suppliers | FA <br /> DA <br /> FI |  |
-| Manager Change | Tony G |  |
 | Manager SD | Elaine S  <br /> Anita |  |
 | Manager Request | Anita  <br /> Elaine S |  |
 | Manager Incident | Torkel B |  |
