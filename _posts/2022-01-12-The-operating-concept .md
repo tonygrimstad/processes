@@ -8,7 +8,7 @@ categories: jekyll update
 [![The Operating Concept](/processes/assets/images/operating-concept.png)](/processes/assets/images/operating-concept.png)
 
 #### Goal
--tbd-
+-tbd- https://github.com/Altinn/dig-portfolio/issues/38
 
 <br />
 
